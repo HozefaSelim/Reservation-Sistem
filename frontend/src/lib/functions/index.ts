@@ -1,0 +1,16 @@
+export {
+  addToast,
+  calcTotal,
+  cookieData,
+  debounce,
+  formHandler,
+  formatDate,
+  generateUserAvatar,
+  getColorFromString,
+  handleRequest,
+  messages,
+  randomKeyGenerator,
+  submitForm,
+  truncate,
+  Authenticate,
+} from "./general";
